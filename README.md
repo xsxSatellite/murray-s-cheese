@@ -3,6 +3,9 @@ It's [murray's cheese](https://www.murrayscheese.com/) partial recreation with s
 
 👉 Live Demo: [murray's partial recreation with some improvements](https://murrayscheesepr.netlify.app/).
 
+## Build with:
+[![Tech Stack](https://skillicons.dev/icons?i=react,sass)](https://skillicons.dev)
+
 ## Screenshots of the project 📸
 ![headliner](https://github.com/xsxSatellite/murray-s-cheese/assets/125062628/07b9d034-e4ff-45a8-abee-46ef03b67add)
 
