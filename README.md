@@ -1,5 +1,5 @@
 ## About the project
-It's [murray's cheese](https://www.murrayscheese.com/) partial recreation with some improvements, for example new dialog html5 element to fulfil focus trapping, and more rigorous text cliping implementation with [resize observer api](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API).
+It's [murray's cheese](https://www.murrayscheese.com/) partial recreation with some improvements, for example new dialog html5 element to fulfil focus trapping, and more rigorous text clipping implementation with [resize observer api](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API).
 
 👉 Live Demo: [murray's partial recreation with some improvements](https://murrayscheesepr.netlify.app/).
 
